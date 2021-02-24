@@ -1,7 +1,7 @@
 Pass a name to activate one of the following virtualenvs:
 ==============================================================================
 No se encuentra el archivo
-
+aa
 C:\Users\Acer Black>mkvirtualenv kivyenv
  C:\Users\Acer Black\Envs is not a directory, creating
 created virtual environment CPython3.7.9.final.0-64 in 112523ms
@@ -38,21 +38,21 @@ python.exe -m pip install --upgrade pip' command.
 sdl2==0.1.* kivy_deps.glew==0.1.*
 Collecting docutils
   Downloading docutils-0.16-py2.py3-none-any.whl (548 kB)
-     |¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦| 548 kB 409 kB/s
+     |Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦| 548 kB 409 kB/s
 Collecting pygments
   Downloading Pygments-2.7.1-py3-none-any.whl (944 kB)
-     |¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦| 944 kB 504 kB/s
+     |Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦| 944 kB 504 kB/s
 Collecting pypiwin32
   Downloading pypiwin32-223-py3-none-any.whl (1.7 kB)
 Collecting kivy_deps.sdl2==0.1.*
   Downloading kivy_deps.sdl2-0.1.23-cp37-cp37m-win_amd64.whl (2.5 MB)
-     |¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦| 2.5 MB 1.3 MB/s
+     |Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦| 2.5 MB 1.3 MB/s
 Collecting kivy_deps.glew==0.1.*
   Downloading kivy_deps.glew-0.1.12-cp37-cp37m-win_amd64.whl (115 kB)
-     |¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦| 115 kB 731 kB/s
+     |Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦| 115 kB 731 kB/s
 Collecting pywin32>=223
   Downloading pywin32-228-cp37-cp37m-win_amd64.whl (9.1 MB)
-     |¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦| 9.1 MB 1.3 MB/s
+     |Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦| 9.1 MB 1.3 MB/s
 Installing collected packages: docutils, pygments, pywin32, pypiwin32, kivy-deps
 .sdl2, kivy-deps.glew
 Successfully installed docutils-0.16 kivy-deps.glew-0.1.12 kivy-deps.sdl2-0.1.23
@@ -65,7 +65,7 @@ python.exe -m pip install --upgrade pip' command.
 (kivyenv) C:\Users\Acer Black>pip install kivy_deps.gstreamer==0.1.*
 Collecting kivy_deps.gstreamer==0.1.*
   Downloading kivy_deps.gstreamer-0.1.18-cp37-cp37m-win_amd64.whl (77.2 MB)
-     |¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦| 77.2 MB 1.9 kB/s
+     |Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦| 77.2 MB 1.9 kB/s
 Installing collected packages: kivy-deps.gstreamer
 Successfully installed kivy-deps.gstreamer-0.1.18
 WARNING: You are using pip version 20.2.2; however, version 20.2.3 is available.
@@ -76,7 +76,7 @@ python.exe -m pip install --upgrade pip' command.
 (kivyenv) C:\Users\Acer Black>pip install kivy_deps.angle==0.1.*
 Collecting kivy_deps.angle==0.1.*
   Downloading kivy_deps.angle-0.1.10-cp37-cp37m-win_amd64.whl (4.1 MB)
-     |¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦| 4.1 MB 939 kB/s
+     |Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦| 4.1 MB 939 kB/s
 Installing collected packages: kivy-deps.angle
 Successfully installed kivy-deps.angle-0.1.10
 WARNING: You are using pip version 20.2.2; however, version 20.2.3 is available.
@@ -87,7 +87,7 @@ python.exe -m pip install --upgrade pip' command.
 (kivyenv) C:\Users\Acer Black>pip install kivy==1.11.1
 Collecting kivy==1.11.1
   Downloading Kivy-1.11.1-cp37-cp37m-win_amd64.whl (4.1 MB)
-     |¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦| 4.1 MB 1.1 MB/s
+     |Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦| 4.1 MB 1.1 MB/s
 Requirement already satisfied: pygments in c:\users\acer black\envs\kivyenv\lib\
 site-packages (from kivy==1.11.1) (2.7.1)
 Requirement already satisfied: docutils in c:\users\acer black\envs\kivyenv\lib\
@@ -96,19 +96,19 @@ Collecting Kivy-Garden>=0.1.4
   Downloading kivy-garden-0.1.4.tar.gz (6.8 kB)
 Collecting requests
   Downloading requests-2.24.0-py2.py3-none-any.whl (61 kB)
-     |¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦| 61 kB 55 kB/s
+     |Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦| 61 kB 55 kB/s
 Collecting certifi>=2017.4.17
   Downloading certifi-2020.6.20-py2.py3-none-any.whl (156 kB)
-     |¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦| 156 kB 1.3 MB/s
+     |Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦| 156 kB 1.3 MB/s
 Collecting chardet<4,>=3.0.2
   Downloading chardet-3.0.4-py2.py3-none-any.whl (133 kB)
-     |¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦| 133 kB 1.3 MB/s
+     |Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦| 133 kB 1.3 MB/s
 Collecting idna<3,>=2.5
   Downloading idna-2.10-py2.py3-none-any.whl (58 kB)
-     |¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦| 58 kB 530 kB/s
+     |Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦| 58 kB 530 kB/s
 Collecting urllib3!=1.25.0,!=1.25.1,<1.26,>=1.21.1
   Downloading urllib3-1.25.10-py2.py3-none-any.whl (127 kB)
-     |¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦| 127 kB 1.3 MB/s
+     |Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦Â¦| 127 kB 1.3 MB/s
 Building wheels for collected packages: Kivy-Garden
   Building wheel for Kivy-Garden (setup.py) ... done
   Created wheel for Kivy-Garden: filename=Kivy_Garden-0.1.4-py3-none-any.whl siz
@@ -129,7 +129,7 @@ python.exe -m pip install --upgrade pip' command.
 
 (kivyenv) C:\Users\Acer Black\moviles>dir
  El volumen de la unidad C no tiene etiqueta.
- El número de serie del volumen es: 3C57-3FF1
+ El nÃºmero de serie del volumen es: 3C57-3FF1
 
  Directorio de C:\Users\Acer Black\moviles
 
@@ -143,7 +143,7 @@ python.exe -m pip install --upgrade pip' command.
 
 (kivyenv) C:\Users\Acer Black\moviles\Practicas_kivy_espanol>dir
  El volumen de la unidad C no tiene etiqueta.
- El número de serie del volumen es: 3C57-3FF1
+ El nÃºmero de serie del volumen es: 3C57-3FF1
 
  Directorio de C:\Users\Acer Black\moviles\Practicas_kivy_espanol
 
@@ -158,7 +158,7 @@ programa o archivo por lotes ejecutable.
 
 (kivyenv) C:\Users\Acer Black\moviles\Practicas_kivy_espanol>dir
  El volumen de la unidad C no tiene etiqueta.
- El número de serie del volumen es: 3C57-3FF1
+ El nÃºmero de serie del volumen es: 3C57-3FF1
 
  Directorio de C:\Users\Acer Black\moviles\Practicas_kivy_espanol
 
@@ -175,7 +175,7 @@ spanol-master
 (kivyenv) C:\Users\Acer Black\moviles\Practicas_kivy_espanol\Practicas_kivy_espa
 nol-master>dir
  El volumen de la unidad C no tiene etiqueta.
- El número de serie del volumen es: 3C57-3FF1
+ El nÃºmero de serie del volumen es: 3C57-3FF1
 
  Directorio de C:\Users\Acer Black\moviles\Practicas_kivy_espanol\Practicas_kivy
 _espanol-master
@@ -214,7 +214,7 @@ nol-master>cd "Tuto 01 Hola Mundo"
 (kivyenv) C:\Users\Acer Black\moviles\Practicas_kivy_espanol\Practicas_kivy_espa
 nol-master\Tuto 01 Hola Mundo>dir
  El volumen de la unidad C no tiene etiqueta.
- El número de serie del volumen es: 3C57-3FF1
+ El nÃºmero de serie del volumen es: 3C57-3FF1
 
  Directorio de C:\Users\Acer Black\moviles\Practicas_kivy_espanol\Practicas_kivy
 _espanol-master\Tuto 01 Hola Mundo
